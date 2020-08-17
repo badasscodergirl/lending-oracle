@@ -1,0 +1,8 @@
+co/branch/lendingoracle/model/Payment.class
+co/branch/lendingoracle/service/LendingService.class
+co/branch/lendingoracle/service/OutputWriter.class
+co/branch/lendingoracle/service/InputParser.class
+co/branch/lendingoracle/model/LoanApplication.class
+co/branch/lendingoracle/service/LoanProcessor.class
+co/branch/lendingoracle/LendingOracleApplication.class
+co/branch/lendingoracle/service/InputParser$1.class
